@@ -2,7 +2,7 @@
 This is a clone of SHEIN which is a global fashion and lifestyle e-tailer committed to making the beauty of fashion accessible to everyone.
 
 # Tech Stacks
-For the frontend, we have used HTML, CSS and JavaScript. And Localstorage is used on backend.
+For the frontend, we have used JavaScript, CSS and html. And Localstorage is used on backend.
 
 # Screen Shots
 
