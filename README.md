@@ -7,11 +7,11 @@ For the frontend, we have used JavaScript, CSS and html. And Localstorage is use
 # Screen Shots
 
 <p>Home Page</p>
-<img src="https://github.com/noorikhan/sheinProject/blob/main/screenShots/homePage.png?raw=true">
+<img src="https://github.com/Laxmanmallick1997/shein-clone/blob/master/screenShots/homePage.png">
 
 <p>Product Page</p>
-<img src="https://github.com/noorikhan/sheinProject/blob/main/screenShots/productPage1.png?raw=true">
-<img src="https://github.com/noorikhan/sheinProject/blob/main/screenShots/productPage2.png?raw=true">
+<img src="https://github.com/Laxmanmallick1997/shein-clone/blob/master/screenShots/productPage1.png?raw=true">
+<img src="https://github.com/Laxmanmallick1997/shein-clone/blob/master/screenShots/productPage2.png?raw=true">
 
 
 <!-- 1 - starting page is index.html
